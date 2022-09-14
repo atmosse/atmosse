@@ -1,4 +1,3 @@
-### Hi there 👋
 ![Alt Text](https://i.pinimg.com/originals/24/2d/57/242d573e779e5deae95c43f06991c11d.gif)
 <!--
 **atmosse/atmosse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
